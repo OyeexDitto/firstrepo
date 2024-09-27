@@ -1,3 +1,3 @@
-# repo2
+# Repo-2
 Hello, this is an edited repository
-This is the Readme file of branch 1.
+This is the Readme file for branch 1.
