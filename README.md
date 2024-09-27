@@ -1,3 +1,3 @@
 # firstrepo
-This is my first repository
+Hello, this is an edited repository
 This is the Readme file of branch 1.
